@@ -1,6 +1,9 @@
 # Refokus
 This project is a frontend clone of the Refokus website, built using React, Locomotive Scroll, and Framer Motion. It's designed to capture the essence of Refokus with smooth scrolling effects and dynamic animations, all while being fully responsive and performant.
 
+## Live Preview of website 
+Explore Refokus-Clone live: [Refokus Clone Live](https://hsrefokus.netlify.app/)
+
 ## Table of Content
 - Introduction
 -  Features
